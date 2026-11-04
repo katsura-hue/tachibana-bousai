@@ -1,0 +1,8 @@
+{
+  "name": "たちばな防災",
+  "short_name": "たちばな防災",
+  "display": "standalone",
+  "start_url": "./",
+  "theme_color": "#0b4da2",
+  "background_color": "#eef2f7"
+}
